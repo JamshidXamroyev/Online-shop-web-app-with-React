@@ -1,0 +1,5 @@
+export {default as Main} from './main/main'
+export {default as Navbar} from './navbar/navbar'
+export {default as Slider} from './slider/slider'
+export {default as NavigateButton} from './navigateButton/navigateButton'
+export {default as FilterProduct} from './filter-product/filter-product'
