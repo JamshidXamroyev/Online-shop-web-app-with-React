@@ -1,4 +1,4 @@
-import {Navbar, NavigateButton, Slider} from "../"
+import {Navbar, NavigateButton, ProductSection, Slider} from "../"
 
 const Main = () => {
   return (
@@ -6,6 +6,7 @@ const Main = () => {
       <Navbar/>
       <Slider />
       <NavigateButton />
+      <ProductSection />
     </div>
   )
 }
